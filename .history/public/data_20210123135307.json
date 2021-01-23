@@ -1,0 +1,32 @@
+{
+  "recipes": [
+    {
+    "id": 1,
+    "breakfast I": {
+			"recipe_1" : {
+				"recipe_id": 1,
+				"title": "Roll with ham and cheese, white coffee",
+				"ingredients": {
+					"ingredient_1": "wheat roll",
+					"ingredient_2": "butter",
+					"ingredient_3": "ham",
+					"ingredient_4": "cheese"
+				},
+				"drink": "white coffee"
+			},
+			"recipe_2" : {
+				"recipe_id": 2,
+				"title": "Scrambled eggs with ham, tea",
+				"ingredients": {
+					"ingredient_1": "wheat roll",
+					"ingredient_2": "butter",
+					"ingredient_3": "ham",
+					"ingredient_4": "2 eggs"
+				},
+				"drink": "black lipton tea"
+			}
+			}
+    }
+
+     ]
+   }
