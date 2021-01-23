@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Jajecznica na boczku",
+		"ingredients": [
+			{
+				"name": "Jaja",
+				"quantity": "2"
+			},
+			{
+				"name": "Boczek",
+				"quantity": "20g"
+			},
+			{
+				"name": "Sól",
+				"quantity": "2g"
+			}
+		],
+		"description": "Pokroić boczek i przysmażyć na patelni. Rozbić jajka na patelni, posolić, przysmażyć, ciągle mieszając."
+	},
+	{
+		"name": "Naleśniki",
+		"ingredients": [
+			{
+				"name": "Jaja",
+				"quantity": "2"
+			},
+			{
+				"name": "Mleko",
+				"quantity": "250ml"
+			},
+			{	
+				"name": "Mąka",
+				"quantity": "200g"
+			},
+			{
+				"name": "Sól",
+				"quantity": "szczypta"
+			}
+		],
+		"description": "Mąkę wsypać do miski, dodać jajka, mleko, wodę i sól. Etc."
+    },
+    {
+		"name": "Omlet",
+		"ingredients": [
+			{
+				"name": "Jaja",
+				"quantity": "2"
+			},
+			{
+				"name": "Masło",
+				"quantity": "1-2 łyżki"
+			},
+			{	
+				"name": "Mleko",
+				"quantity": "1 łyżka"
+			},
+			{
+				"name": "Sól",
+				"quantity": "szczypta"
+			}
+		],
+		"description": "Rozbij jajka, rozmieszaj widelcem. Etc."
+	}
+]
