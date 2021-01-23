@@ -57,44 +57,33 @@
 			}
 		},
 		{
-		"id": 3,
-		"dinner": {
-			"recipe_1" : {
-				"recipe_id": 1,
-				"title": "Pork chop with potatoes and sauerkraut salad, and apple juice",
-				"ingredients": {
-          "ingredient_1": "pork chop",
-          "ingredient_2": "potatos",
-          "ingredient_3": "sauerkraut salad"
+	  "id": 2,
+    "breakfast II": {
+      "recipe_1" : {
+        "recipe_id": 1,
+        "title": "Roll with ham and cheese, white coffee, apple",
+        "ingredients": {
+          "ingredient_1": "wheat roll",
+          "ingredient_2": "butter",
+          "ingredient_3": "ham",
+          "ingredient_4": "cheese"
         },
-        "drink": "apple juice"
-			}
+        "drink": "white coffee",
+        "fruit": "apple"
+      },
+      "recipe_2" : {
+        "recipe_id": 2,
+        "title": "A roll with lettuce, ham and egg, tea, banana",
+        "ingredients": {
+          "ingredient_1": "wheat roll",
+          "ingredient_2": "butter",
+          "ingredient_3": "ham",
+          "ingredient_4": "2 eggs"
+        },
+        "drink": "black lipton tea",
+        "fruit": "banana"
+      }
 		}
-		},
-		{
-		"id": 4,
-		"supper": {
-			"recipe_1" : {
-				"recipe_id": 1,
-				"title": "Pasta with tomato sauce, tea",
-				"ingredients": {
-					"ingredient_1": "pasta",
-					"ingredient_2": "tomato sauce"
-					},
-				"drink": "tea"
-				},
-			"recipe_2" : {
-				"recipe_id": 2,
-				"title": "Sandwich with lettuce, cheese and egg, cocoa",
-				"ingredients": {
-					"ingredient_1": "Graham bread",
-					"ingredient_2": "lettuce",
-					"ingredient_3": "cheese",
-					"ingredient_4": "egg"
-					},
-				"drink": "cocoa"
-				}
-			}
-		}
+
   ]
 }

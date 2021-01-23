@@ -68,32 +68,8 @@
           "ingredient_3": "sauerkraut salad"
         },
         "drink": "apple juice"
-			}
-		}
-		},
-		{
-		"id": 4,
-		"supper": {
-			"recipe_1" : {
-				"recipe_id": 1,
-				"title": "Pasta with tomato sauce, tea",
-				"ingredients": {
-					"ingredient_1": "pasta",
-					"ingredient_2": "tomato sauce"
-					},
-				"drink": "tea"
-				},
-			"recipe_2" : {
-				"recipe_id": 2,
-				"title": "Sandwich with lettuce, cheese and egg, cocoa",
-				"ingredients": {
-					"ingredient_1": "Graham bread",
-					"ingredient_2": "lettuce",
-					"ingredient_3": "cheese",
-					"ingredient_4": "egg"
-					},
-				"drink": "cocoa"
-				}
+      },
+
 			}
 		}
   ]

@@ -63,38 +63,28 @@
 				"recipe_id": 1,
 				"title": "Pork chop with potatoes and sauerkraut salad, and apple juice",
 				"ingredients": {
-          "ingredient_1": "pork chop",
-          "ingredient_2": "potatos",
-          "ingredient_3": "sauerkraut salad"
-        },
-        "drink": "apple juice"
-			}
-		}
-		},
-		{
-		"id": 4,
-		"supper": {
-			"recipe_1" : {
-				"recipe_id": 1,
-				"title": "Pasta with tomato sauce, tea",
-				"ingredients": {
-					"ingredient_1": "pasta",
-					"ingredient_2": "tomato sauce"
-					},
-				"drink": "tea"
+					"ingredient_1": "pork chop",
+					"ingredient_2": "potatos",
+					"ingredient_3": "sauerkraut salad",
+				},
+				"drink": "apple juice"
 				},
 			"recipe_2" : {
 				"recipe_id": 2,
-				"title": "Sandwich with lettuce, cheese and egg, cocoa",
+				"title": "Chicken breast rolls with mushrooms, potatoes and orange juice",
 				"ingredients": {
-					"ingredient_1": "Graham bread",
-					"ingredient_2": "lettuce",
-					"ingredient_3": "cheese",
-					"ingredient_4": "egg"
-					},
-				"drink": "cocoa"
-				}
+					"ingredient_1": "chicken breast",
+					"ingredient_2": "mushrooms",
+					"ingredient_3": "potatoes",
+				},
+				"drink": "orange juice"
 			}
+		}
+
+
+
+
+			
 		}
   ]
 }
