@@ -8,6 +8,7 @@ import {
 
 import Footer from './components/Footer';
 import Header from './components/Header';
+import Week from './pages/Week/Week';
 
 function App() {
   return (
@@ -15,6 +16,9 @@ function App() {
       <Router>
       <Header />
       <Switch>
+        <Route path="/week">
+            <Week />
+        </Route>
       </Switch> 
       </Router>
       
